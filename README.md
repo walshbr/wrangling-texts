@@ -1,0 +1,1 @@
+Workshop notebook for a guest lecture on wrangling text data with Python. View it online [here](http://nbviewer.jupyter.org/github/walshbr/wrangling-texts/blob/master/Wrangling%20Text%20Data%20in%20Python.ipynb). 
